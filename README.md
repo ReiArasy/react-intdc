@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=React%20&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# React ⚛️
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Exploring+Modern+React+Development;Building+Scalable+Frontend+Architecture;Experimenting+With+Component+Design" />
 </p>
