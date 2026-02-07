@@ -1,16 +1,56 @@
-# React + Vite
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=React%20&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Exploring+Modern+React+Development;Building+Scalable+Frontend+Architecture;Experimenting+With+Component+Design" />
+</p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Overview
 
-## Expanding the ESLint configuration
+A personal exploration project focused on building modern web interfaces using React.  
+This repository documents experiments, component structures, and implementation patterns while strengthening frontend engineering fundamentals.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Tech Stack
+
+- React (Vite)
+- JavaScript (ES6+)
+
+## Project Purpose
+
+This project serves as a development sandbox to:
+
+- Explore React architecture & component design
+- Practice scalable UI structure
+- Implement modern frontend patterns
+- Strengthen problem solving through hands-on experimentation
+
+## Learning Focus
+
+Some topics currently explored in this repository:
+
+- Component-based architecture
+- JSX & rendering flow
+- State & props management
+- Performance awareness & code readability
+
+
+## Getting Started
+
+Clone this repository and install dependencies:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/react-intdc.git
+cd react-intdc
+npm install
+npm run dev
