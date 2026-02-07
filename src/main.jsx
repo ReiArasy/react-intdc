@@ -5,6 +5,8 @@ import Ekspresi from './ekspresi.jsx'
 import Component from './component.jsx'
 import Props from './props.jsx'
 import State from './state.jsx'
+import Event from './Event.jsx'
+import Conditional from './Conditional.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -12,7 +14,8 @@ createRoot(document.getElementById('root')).render(
     {/* <Ekspresi /> */}
     {/* <Component /> */}
     {/* <Props /> */}
-    <State />
-    
+    {/* <State /> */}
+    {/* <Event /> */}
+    <Conditional />
   </StrictMode>,
 )
